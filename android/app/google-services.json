@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262923898887",
+    "project_id": "picterest-app-new",
+    "storage_bucket": "picterest-app-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262923898887:android:efda763035afede0785aa2",
+        "android_client_info": {
+          "package_name": "com.picterest.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrMBoD2ZEWUQHBDIwiUEsD9IO8cInpHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
